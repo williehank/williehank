@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @williehank
-- 💼 Software Engineer at Notarize
+👋 Hi, I’m @williehank
+
+💼 Software Engineer at Notarize
